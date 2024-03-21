@@ -9,4 +9,4 @@ ThermAI is built to perform the following tasks:
 - Predict the total clothing ensemble clo by summing individual garment clo value.
 - Predict thermal comfort based on the daily weather.
 
-> Project start: 3/23/2024
+> [link](https://www.canva.com/design/DAF7pOm-MWY/D6_ylIsKXVlUrCmMEZaseQ/edit?utm_content=DAF7pOm-MWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to project slides.
